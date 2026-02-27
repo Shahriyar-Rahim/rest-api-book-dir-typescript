@@ -320,7 +320,7 @@ Include a CONTRIBUTING.md file with PR template and issue template for maintaine
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## Contact
-Maintainer: Your Name — replace with the maintainer details or project contact.
+Maintainer: Md. Shahriyar Rahim
 
 ## Acknowledgements
 - Inspired by common Node.js + TypeScript API patterns
